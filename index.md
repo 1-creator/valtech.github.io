@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to valtech
+hacking
+##WHAT IS A HACKER
 
-You can use the [editor on GitHub](https://github.com/1-creator/valtech.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+As shown here, a hacker is pretty much capable of causing far-reaching damage quite similar to the way Hollywood says. Depending on the conditions, a capable hacker can take over user accounts, compromise systems, and even get away with stolen intellectual property. The main difference between the movies and real life is that hacking is never really easy. And no, real hacking skills take more than learning how to Google. Granted, stealing someone’s password can be done any day even by “script kiddies” (those who rely on FAQs and pre-built tools). In reality, hacking involves knowing exactly how a system works. This means a hacker probably has built that system at one point, has tinkered with it, has tested its responses to different inputs, and has already pinpointed and analyzed its weaknesses. A hacker does not simply type on a keyboard with blazing-fast fingers and wait for a bar to load to 100% (while something exciting happens in the background). Usually, the agents used to feel around the target network - trojans, worms, etc. - can take weeks or months (or even a full year!) to spread completely. However, when they do, they are indeed capable of pulling off bigscreen-level destruction - like the destruction of uranium centrifuges in an Iranian nuclear facility back in 2009 and the toasting of a Turkish oil pipeline a year earlier (both with the help of a Stuxnet worm).
+##Why You Should Give Hacking A Shot
+In real life, hackers always get caught. Aside from national laws in different parts of the world, there are different multinational agencies that can track anyone, anywhere. This means if you mess with a target big enough, you might find yourself on the run. So, is there really anything for hacking aside from the trill? Indeed, there is - today, hackers can earn anywhere from $50,000 to $100,000 a year, depending on your experience and education. This is in the form of “ethical” or “white-hat” hacking. In this world where security becomes more and more of a pressing concern, the market for white hats has increased year on year. In fact, figures project a total of 40% increase in security-related spending among global corporations between 2011 and 2015. This means if you have a passion for poking into networks and revealing exploits, you can put those skills to use without going out on a limb or getting thrown in jail. This website will show you how.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1-creator/valtech.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+follow to get more information for every day updates
